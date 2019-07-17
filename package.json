@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jmservera/node-red-azure-webapp.git"
+    "url": "git+ssh://git@github.com/adnmanai/node-red-azure-webapp.git"
   },
   "keywords": [
     "node-red",
     "Azure"
   ],
-  "author": "jmservera",
+  "author": "adnmanai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jmservera/node-red-azure-webapp/issues"
+    "url": "https://github.com/adnmanai/node-red-azure-webapp/issues"
   },
-  "homepage": "https://github.com/jmservera/node-red-azure-webapp#readme"
+  "homepage": "https://github.com/adnmanai/node-red-azure-webapp#readme"
 }
