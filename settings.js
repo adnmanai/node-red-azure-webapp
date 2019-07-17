@@ -198,6 +198,11 @@ module.exports = {
             "version": "0.0.1"
           }
         }
+      },
+      editorTheme: {
+        projects:{
+          enabled:true
+        }
       }
 
 };
