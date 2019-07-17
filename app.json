@@ -1,0 +1,9 @@
+{
+  "name": "node-red-azure-webapp",
+  "description": "A visual tool for creating web app.",
+  "keywords": [ "Node-RED", "IoT", "Internet of Things", "node.js", "node", "uxp", "finastra" ],
+  "website": "http://www.adnene.com/",
+  "repository": "https://github.com/adnmanai/node-red-azure-webapp.git",
+  "logo": "https://nodered.org/about/resources/media/node-red-icon.png",
+  "success_url": "/"
+}
