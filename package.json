@@ -8,7 +8,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "postinstall": "postinstall.cmd",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
