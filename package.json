@@ -4,9 +4,10 @@
   "description": "A webapp wrapper for running node-red in an Azure Web App",
   "main": "server.js",
   "dependencies": {
-    "node-red": "1.0.0"
+    "node-red": "1.3.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "scripts": {
     "postinstall": "postinstall.cmd",
     "test": "echo \"Error: no test specified\" && exit 1"
